@@ -9,5 +9,5 @@ I studied a bit of python outside of the computer science of class 11th and 12th
 ## How i intend to contribute to the club
 I am open to doing any projects,do the tasks which are told by the club.I was very interested in amfoss by the induction program
 itself.I hope to collaborate with others because i am a person who likes to interact with people.
-##My fields of interest
+## My fields of interest
 I like maths so anything related to maths and problem solving.
